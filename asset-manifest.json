@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Papaz228/react-pages/static/css/main.0a443ec3.css",
+    "main.js": "/Papaz228/react-pages/static/js/main.356fc034.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Papaz228/react-pages/static/js/787.28cb0dcd.chunk.js",
+    "static/media/1.jpg": "/Papaz228/react-pages/static/media/1.ec257c4be6a01c3e0054.jpg",
+    "index.html": "/Papaz228/react-pages/index.html",
+    "main.0a443ec3.css.map": "/Papaz228/react-pages/static/css/main.0a443ec3.css.map",
+    "main.356fc034.js.map": "/Papaz228/react-pages/static/js/main.356fc034.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Papaz228/react-pages/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a443ec3.css",
+    "static/js/main.356fc034.js"
+  ]
+}
